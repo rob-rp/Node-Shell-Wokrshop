@@ -11,4 +11,4 @@
 // });
 // }
 
-//module.exports = thePWD;
+module.exports = console.log(process.cwd());
